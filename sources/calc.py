@@ -27,7 +27,7 @@ def div(arg1,arg2):
     except ValueError: 
         print("Un des arguments n'est pas un entier.") 
     except ZeroDivisionError:
-        print("Vous divisez par 0.")
+        print("Vous divisez par 0. ")
 
 def ope(operateur,arg1,arg2):   
     if operateur=='+':
