@@ -12,7 +12,7 @@ def sous(arg1,arg2):
     try:
         return int(arg1)-int(arg2)
     except ValueError: 
-        print("Un des arguments n'est pas u  n entier.") 
+        print("Un des arguments n'est pas su  n entier.") 
 
 
 def mult(arg1,arg2):
