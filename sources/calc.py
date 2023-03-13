@@ -1,5 +1,5 @@
 """
-La librairie calc permet de faire les opérations basiques de calcul entre deux entiers.
+La librairie calc permet de faire les opérations basiques de calcul entre deux entiers(test gpf).
 """
 
 def add(arg1,arg2):
