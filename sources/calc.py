@@ -39,4 +39,4 @@ def ope(operateur,arg1,arg2):
     elif operateur=="/":
         return div(arg1,arg2)
     else:
-        print("L'opérateur {} n'est pas  reconnu.".format(operateur))
+        print("L'opérateur  {} n'est pas  reconnu.".format(operateur))
